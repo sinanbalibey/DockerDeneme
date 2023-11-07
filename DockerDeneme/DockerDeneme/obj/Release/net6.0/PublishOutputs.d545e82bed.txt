@@ -1,0 +1,5 @@
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\publish\DockerDeneme.exe
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\publish\DockerDeneme.dll
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\publish\DockerDeneme.deps.json
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\publish\DockerDeneme.runtimeconfig.json
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\publish\DockerDeneme.pdb

@@ -1,0 +1,15 @@
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\DockerDeneme.exe
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\DockerDeneme.deps.json
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\DockerDeneme.runtimeconfig.json
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\DockerDeneme.dll
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\bin\Release\net6.0\DockerDeneme.pdb
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\DockerDeneme.csproj.AssemblyReference.cache
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\DockerDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\DockerDeneme.AssemblyInfoInputs.cache
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\DockerDeneme.AssemblyInfo.cs
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\DockerDeneme.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\DockerDeneme.dll
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\refint\DockerDeneme.dll
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\DockerDeneme.pdb
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\DockerDeneme.genruntimeconfig.cache
+C:\Users\sinan\source\DockerDeneme\DockerDeneme\obj\Release\net6.0\ref\DockerDeneme.dll

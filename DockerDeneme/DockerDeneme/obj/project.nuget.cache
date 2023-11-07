@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "giwoKd8l3HQHQfxFpBebCczqe9o1ReKmmwKu0gjWkaPNC6Hy7jKe2bmvOts3wHYWGKuIG5YEtHTcWekmVFZoQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sinan\\source\\DockerDeneme\\DockerDeneme\\DockerDeneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sinan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
